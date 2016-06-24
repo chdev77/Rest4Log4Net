@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 14
 VisualStudioVersion = 14.0.25123.0
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Log4NetAppender", "Log4NetAppender\Log4NetAppender.csproj", "{266DE7C0-1F2E-4D01-A904-3DF3289F4526}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Log4NetTestLogger", "Log4NetAppender\Log4NetTestLogger.csproj", "{266DE7C0-1F2E-4D01-A904-3DF3289F4526}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
