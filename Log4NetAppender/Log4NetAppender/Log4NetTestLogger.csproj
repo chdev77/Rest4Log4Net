@@ -61,6 +61,12 @@
     </Content>
     <None Include="packages.config" />
   </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\Rest4Log4NetAppender\Rest4Log4NetAppender.csproj">
+      <Project>{d52b6d96-8861-41dc-b1eb-1d8ce44c710b}</Project>
+      <Name>Rest4Log4NetAppender</Name>
+    </ProjectReference>
+  </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
   <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
        Other similar extension points exist, see Microsoft.Common.targets.
