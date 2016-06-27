@@ -11,11 +11,6 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Rest4Log4NetModels", "Rest4
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Rest4Log4NetWebApi", "Rest4Log4NetWebApi\Rest4Log4NetWebApi.csproj", "{18DBC4D5-43A4-4197-916F-DF0292EECF2D}"
 EndProject
-Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{8C85CB82-3992-4583-B718-3551B7E87B80}"
-	ProjectSection(SolutionItems) = preProject
-		LICENSE.txt = LICENSE.txt
-	EndProjectSection
-EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
