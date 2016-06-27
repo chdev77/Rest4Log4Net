@@ -1,5 +1,5 @@
-# log4net-appender-test
+# Rest4Log4Net
 
-This is a sample C# console app that uses multiple log4net appenders.
+A log4net REST Appender
 
 Nothing special yet!
