@@ -7,6 +7,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Log4NetTestLogger", "Log4Ne
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Rest4Log4NetAppender", "Rest4Log4NetAppender\Rest4Log4NetAppender.csproj", "{D52B6D96-8861-41DC-B1EB-1D8CE44C710B}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Rest4Log4NetModels", "Rest4Log4NetModels\Rest4Log4NetModels.csproj", "{24F8CB6D-5910-41DB-BCC6-32D9D9B06BD0}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Rest4Log4NetWebApi", "Rest4Log4NetWebApi\Rest4Log4NetWebApi.csproj", "{18DBC4D5-43A4-4197-916F-DF0292EECF2D}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +25,14 @@ Global
 		{D52B6D96-8861-41DC-B1EB-1D8CE44C710B}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{D52B6D96-8861-41DC-B1EB-1D8CE44C710B}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{D52B6D96-8861-41DC-B1EB-1D8CE44C710B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{24F8CB6D-5910-41DB-BCC6-32D9D9B06BD0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{24F8CB6D-5910-41DB-BCC6-32D9D9B06BD0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{24F8CB6D-5910-41DB-BCC6-32D9D9B06BD0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{24F8CB6D-5910-41DB-BCC6-32D9D9B06BD0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{18DBC4D5-43A4-4197-916F-DF0292EECF2D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{18DBC4D5-43A4-4197-916F-DF0292EECF2D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{18DBC4D5-43A4-4197-916F-DF0292EECF2D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{18DBC4D5-43A4-4197-916F-DF0292EECF2D}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
